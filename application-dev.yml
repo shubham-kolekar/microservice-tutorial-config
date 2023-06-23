@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CONFIG-DEFULT
+    name: CONFIG-Dev
 
 eureka:
   instance:
