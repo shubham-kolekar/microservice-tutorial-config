@@ -1,4 +1,4 @@
-sprng:
+spring:
   application:
     name: CONFIG-DEFULT
 
