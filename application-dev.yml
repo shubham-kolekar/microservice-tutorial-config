@@ -1,6 +1,6 @@
 sprng:
   application:
-    name: CONFIG-DEV
+    name: Config-Dev
 
 eureka:
   instance:
