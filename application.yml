@@ -1,3 +1,7 @@
+sprng:
+  application:
+    name: CONFIG-DEFULT
+
 eureka:
   instance:
     prefer-ip-address: true
